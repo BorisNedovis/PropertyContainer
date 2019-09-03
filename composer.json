@@ -21,7 +21,10 @@
 
   "minimum-stability": "dev",
 
-  "require": {},
+  "require": {
+    "php": "^7.2",
+    "borisnedovis/property-container": "1"
+  },
 
   "autoload": {
 
