@@ -1,0 +1,35 @@
+{
+  "name": "borisnedovis/property-container",
+
+  "description": "Property container",
+
+  "keywords":["laravel","property-container"],
+
+  "license": "MIT",
+
+  "authors": [
+
+    {
+
+      "name": "Boris Nedovis",
+
+      "email": "borisnedovis1@gmail.com"
+
+    }
+
+  ],
+
+  "minimum-stability": "dev",
+
+  "require": {},
+
+  "autoload": {
+
+    "psr-4": {
+
+      "BorisNedovis\\PropertyContainer\\": "src/"
+
+    }
+
+  }
+}
