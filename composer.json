@@ -22,7 +22,7 @@
   "minimum-stability": "dev",
 
   "require": {
-    "php": "^7.2",
+    "php": "^5.2",
     "borisnedovis/property-container": "1"
   },
 
