@@ -4,9 +4,9 @@ namespace BorisNedovis\PropertyContainer;
 
 use BorisNedovis\PropertyContainer\src\PropertyContainerInterface;
 /**
- * Class PropertyContainerService
+ * Class PropertyContainer
  *
- * @package  App\Services\PropertyContainerService
+ * @package  BorisNedovis\PropertyContainer\PropertyContainer
  */
 class PropertyContainer implements PropertyContainerInterface
 {
