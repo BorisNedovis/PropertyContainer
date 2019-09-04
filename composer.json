@@ -7,8 +7,9 @@
 
   "license": "MIT",
 
-  "authors": [
+  "version": "1.0.0",
 
+  "authors": [
     {
 
       "name": "Boris Nedovis",
@@ -18,13 +19,9 @@
     }
 
   ],
-
   "minimum-stability": "stable",
 
-  "require": {
-    "php": "^7.2",
-    "borisnedovis/property-container": "1"
-  },
+  "require": {},
 
   "autoload": {
 
